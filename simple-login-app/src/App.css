@@ -1,0 +1,43 @@
+label {
+    font: arial;
+    font-size: 1rem;
+}
+
+h1 {
+    font: arial;
+    font-size: 10px;
+    text-align: center;
+}
+
+a {
+    text-align: center;
+    max-width: fit-content;
+    margin-inline: auto;
+    align-content: center;
+}
+
+.btn {
+    margin-top: 10px;
+}
+
+.card {
+    width: 18em;
+    padding: 5px;
+    text-align: center;
+    margin-top: 20px;
+} 
+
+.login-card {
+    max-width: fit-content;
+    margin-inline: auto;
+}
+
+.login-card-content {
+    align-content: center;
+    text-align: center;
+}
+
+.errorLabel {
+    color: red;
+    font: 10px arial;
+}
